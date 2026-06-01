@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SweepBar</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 01 Jun 2026 15:55:28 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar-0.1.0.zip" length="1713051" type="application/octet-stream" sparkle:edSignature="vw/dblTMMJyqsHyhldCwN0zaBMJHRfpOjyO4RaiwRLZApaswdbZv0jC5DLLedrrjDq8R55hH4i8dptuPJP4GAA=="/>
+        </item>
+    </channel>
+</rss>
