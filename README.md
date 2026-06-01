@@ -26,6 +26,9 @@ signature against its embedded public key before installing.
 Source code, the `sweep` CLI, and full documentation live in
 **[jjnicolas/sweep](https://github.com/jjnicolas/sweep)**.
 
+SweepBar is part of Julien Nicolas's apps & utilities — see them all at
+**[apps.tnfnet.org](https://apps.tnfnet.org)**.
+
 ---
 
 *These files are generated and pushed by `make release` in the source repo —
