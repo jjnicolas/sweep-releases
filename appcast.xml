@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar-0.1.0.zip" length="1713051" type="application/octet-stream" sparkle:edSignature="vw/dblTMMJyqsHyhldCwN0zaBMJHRfpOjyO4RaiwRLZApaswdbZv0jC5DLLedrrjDq8R55hH4i8dptuPJP4GAA=="/>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar-0.1.0.zip" length="1853113" type="application/octet-stream" sparkle:edSignature="UG27WDzObUskAybo1+f65+3ShaJ2hp4vb9jJHUGJjHYoJOwK287N6MGIPHJlhMLk9Tb4MG3w39CyqM8ZJ/YPBw=="/>
         </item>
     </channel>
 </rss>
