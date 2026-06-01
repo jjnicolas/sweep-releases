@@ -3,6 +3,17 @@
     <channel>
         <title>SweepBar</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 01 Jun 2026 16:09:43 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar-0.2.0.zip" length="1853121" type="application/octet-stream" sparkle:edSignature="kIu93HsT6XtR5ox9tnt/UaYwAvlyrfPhz0Y6sAFQz6lBvZYMP3olZ/VCM2xt0ZK/GGzFgAjcI+o3Od/aTIA8Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar2-1.delta" sparkle:deltaFrom="1" length="12722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LZfmLD0WWbUKhViLNUSZPv6uDa83eXW4Y1o7F0DS3bA9OolNwdUVg67P9Y21CddAXtEYqXFCd0vPIYkN6oA5Cw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Mon, 01 Jun 2026 15:55:28 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
