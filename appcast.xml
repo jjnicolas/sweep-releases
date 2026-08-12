@@ -3,6 +3,21 @@
     <channel>
         <title>SweepBar</title>
         <item>
+            <title>0.5.12</title>
+            <pubDate>Wed, 12 Aug 2026 15:42:18 -0700</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.5.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar-0.5.12.zip" length="2056495" type="application/octet-stream" sparkle:edSignature="z5OCLSIFr/Xy0s2odZQ/omHOLgNxvZaBPd/R56F7P+xi+oaoUhf4YbU224EnjqaRxsqzt/+JnxbDNuej+9omDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar18-17.delta" sparkle:deltaFrom="17" length="105714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KithL5zzB/j4DjimMoGJjKryN1qRE2fz0AbOUQcx6n+1ORTdc9YLPFP1nCxxXWfsP/X+HtNCEo/2k4SnwtxsAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar18-16.delta" sparkle:deltaFrom="16" length="147282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ndm8nCixo7GpCipUZEA8ZqAhj/u/u+3SCdgckFv7PLm99vF06Xlj7smeQ11ao0sOi9dtz1X9+/HzANiBOBhsDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar18-15.delta" sparkle:deltaFrom="15" length="199446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A2b72rnMSL3XoHyKtqsF1Cqbx/UFYnrLVPhEVT0pMqLTYP4QR14M1obddueeW9OUecGZoH6oPKJi10RHshnZAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar18-14.delta" sparkle:deltaFrom="14" length="215490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ww3o0y4PD5jqZteqr5PKlKGDr6H+lp6hRYcYD3LDJnp8D1/1ttLO4YvA1uVIk32478fVgeKy5sGXYgC69SdbDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar18-13.delta" sparkle:deltaFrom="13" length="240686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ab5+brcnOjpO5IrsvcoT0Xk1DnFVNeLl7P2glej2MVQd9QHHrc7lXwDqbNkVOTzMwiAjJCujp8c9berZNTYFDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.11</title>
             <pubDate>Wed, 12 Aug 2026 15:32:21 -0700</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar16-13.delta" sparkle:deltaFrom="13" length="221294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TV/Rqdu0W5YO9AGrUi5mEyGHefyV0M5aye44gHt725eGXS5YD0Eik689iUkJ6jHb+GhwjCitSzQpjuZOlhZGCg=="/>
                 <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar16-12.delta" sparkle:deltaFrom="12" length="239082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VZTdr0p0R+/5HtbEfMab7wYAl2jz23FJziTwUtYavvTt/1Ld7ZLMQbs6/rMiRHeKl8IWQTelUJKuodUMi8FPBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar16-11.delta" sparkle:deltaFrom="11" length="253570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wUg+mgjFhAKUXcW4mIzBah7pHHOS4FW5bf+QhjBWx7sOhdy/McIse1PARFNjVewN6i6Fqeafu6VkBgxDBh11CQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.5.9</title>
-            <pubDate>Wed, 12 Aug 2026 15:14:48 -0700</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar-0.5.9.zip" length="2038728" type="application/octet-stream" sparkle:edSignature="ZNFAeryK8Fd6sr7bRLll5DJUWOyIVGW6PI+rDaOjmeaQa6ME4Rt97ancQbEWK9f0wvBHxULu294+DSy9wKwBDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar15-14.delta" sparkle:deltaFrom="14" length="135318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a0dhuMRShRhiYxJH/rtMMm1LdHxt/G9D8XZ9ANxjqoUbF6Yp8dM3vyYF1jJv6vV0tw8L28JsqbS0QwFvOB7EAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar15-13.delta" sparkle:deltaFrom="13" length="168442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1M/Hwk723Tx9pox15Q6165VOq/djRYAek/82QLvDfK0zwStgJndez0sMpvCt6nY/SRvw/5PDtJ5QnAxMg5z2AA=="/>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar15-12.delta" sparkle:deltaFrom="12" length="190810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="usXQXYaSz7goDY6309oerZ/eH6zrzbNO3ctuiLx5aHghIAO67MejfAxuI3WUyuC213RkRBMG7vZI5NNaV9mgCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar15-11.delta" sparkle:deltaFrom="11" length="207230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r9mtLz5gaiKDjT4gyPhfWbCt/N3mWL3zo9S4QCNq3gRe/u2uG2kahLW4RbOrkJIMa1Nyn25gnL5TP/wcE/AgAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/sweep-releases/main/SweepBar15-10.delta" sparkle:deltaFrom="10" length="219058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rwxESQE5Xi7/bMuwbbp8QIfn25C5Hb/kYHNEptrhzy9mT9oOc835WdvyH6BHKiCwyMXcaXViBFKpBIRTqQZ9BA=="/>
             </sparkle:deltas>
         </item>
     </channel>
